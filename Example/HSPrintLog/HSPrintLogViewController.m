@@ -8,6 +8,7 @@
 
 #import "HSPrintLogViewController.h"
 
+
 @interface HSPrintLogViewController ()
 
 @end
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+//    HSPrintLog *d = [HSPrintLog ];
 }
 
 - (void)didReceiveMemoryWarning

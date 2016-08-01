@@ -1,0 +1,6 @@
+framework module HSPrintLog {
+  umbrella header "HSPrintLog-umbrella.h"
+
+  export *
+  module * { export * }
+}
