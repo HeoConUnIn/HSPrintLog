@@ -1,3 +1,4 @@
+
 # HSPrintLog
 
 [![CI Status](http://img.shields.io/travis/HoangSon19/HSPrintLog.svg?style=flat)](https://travis-ci.org/HoangSon19/HSPrintLog)
@@ -27,3 +28,6 @@ HoangSon19, codetts@gmail.com
 ## License
 
 HSPrintLog is available under the MIT license. See the LICENSE file for more info.
+
+# HSPrintLog
+
